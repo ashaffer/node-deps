@@ -1,0 +1,13 @@
+{
+  "name": "node-deps",
+  "description": "Get a list of the modules in node_modules",
+  "repository": "git://github.com/ashaffer/node-deps.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.0",
+    "standard": "^4.0.0"
+  }
+}
